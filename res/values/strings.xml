@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chacha</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Nick Name</string>
+    <string name="emailExists">Email address is being used</string>
+    <string name="registerFail">Fail to register</string>
+    <string name="registerSuccess">Success to register</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="welcomeRegister">Welcome to Chacha</string>
+    <string name="registerResult">Register Result</string>
+    <string name="loginInfo">Login Info</string>
+    <string name="loginFail">Login failed</string>
+    <string name="connectionError">Connection Error</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="warning">WARNING</string>
+    <string name="emailEmpty">Email cannot be empty!</string>
+    <string name="passwordEmpty">Password cannot be empty!</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="send">Send</string>
+
+</resources>
